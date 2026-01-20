@@ -1,0 +1,4 @@
+Temporary commit for reset practice.
+Task 2 started.
+Initial file for Git practice.
+This line is added in feature-update branch.
